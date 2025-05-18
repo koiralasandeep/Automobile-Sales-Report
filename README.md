@@ -54,5 +54,5 @@ python auto.py
 ├── note.txt       # Project planning notes
 └── README.md      # Project documentation
 
-<img width="1920" alt="Screenshot 2025-05-18 at 11 40 35 AM" src="https://github.com/user-attachments/assets/7c76fb9a-e6e1-4fe6-805b-16963b2bfb0e" />
+<img width="1920" alt="Screenshot 2025-05-18 at 11 42 09 AM" src="https://github.com/user-attachments/assets/4e342e2b-1a16-4d79-b13c-d03cd1518b24" />
 
